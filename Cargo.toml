@@ -1,5 +1,5 @@
 [package]
-name = "my_parser"
+name = "my_parser_andrewromanyk"
 version = "0.1.0"
 edition = "2021"
 description = "My custom parser made for rust class"
